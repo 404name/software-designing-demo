@@ -1,5 +1,5 @@
 # [software-designing-demo](https://github.com/404name/software-designing-demo)
-> 软件开发(后端) 简单规范资源分享及阶段作业任务
+> 软件开发(后端) **简单规范** **资源分享**及**阶段作业任务**
 > 
 > （本模块长期更新，请每组成员关注内容，也可以[关注](github.com/404name)下我😋）
 
