@@ -21,13 +21,17 @@
 ***
 $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 *** 
+
 - 1.1.1 **【必看|视频】** 文章项目实战视频；
+
 > 备注：此项目视频是付费视频，仅内部使用，少传~然后画质很糊，看内容就行。
 >
 >技术栈【springboot + mybatisPlus + redis + rabbitmq】，内容很详细的。从数据库设计到界面设计，适合完整的看一遍别人规范的开发方式，对后面自己写系统有很大的提升；
 
 > 链接：[百度云密码：1Gv6](https://pan.baidu.com/s/1QE_DYTyhaekYD1XoOWTWHw)
+
 - 1.1.2 **【必看|文章】** 50个后台开发规范；
+
 > 备注：强烈建议看完，并且后面规范的去
 
 > 链接：[工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/VgfMJRjCOwmmwDnvotsHeQ)
@@ -44,9 +48,11 @@ $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 
 > **大概完成项目的前期工作，包括仓库创建，文档内容，数据库的创建。整体项目的规划。**
 
+
 ***
 $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 *** 
+
 - 1.2.1 创建github仓库，学习团队合作 
 
 > 难度：⭐
@@ -59,11 +65,11 @@ $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 
 > 难度：⭐⭐
 
-> 在设置页面开启github action选择第一个主题，此后就有文档链接了 
+> 在设置页面开启github action选择第一个主题，此后就有文档链接了 ,类似[我这个](https://404name.github.io/software-designing-demo/)
 > 
 > https:///用户名.github.io/仓库名
 > 
-> https://404name.github.io/software-designing-demo/
+> [https://404name.github.io/software-designing-demo/](https://404name.github.io/software-designing-demo/)
 
 - 1.2.3 完善项目初想法，补全README.md
 
