@@ -1,4 +1,4 @@
-# software-designing-demo
+# [software-designing-demo](https://github.com/404name/software-designing-demo)
 > 软件开发(后端) 简单规范资源分享及阶段作业任务
 > 
 > （本模块长期更新，请每组成员关注内容，也可以[关注](github.com/404name)下我😋）
@@ -53,7 +53,9 @@ $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 
 > 在设置页面开启github action选择第一个主题，此后就有文档链接了 
 > 
-> github.io/用户名/仓库名
+> https:///用户名.github.io/仓库名
+> 
+> https://404name.github.io/software-designing-demo/
 
 - 1.2.3 完善项目初想法，补全README.md
 > 难度：⭐⭐⭐【此处将由lbt老师指导发展方向，请十一月中旬完成】
