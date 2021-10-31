@@ -36,10 +36,12 @@ $\color{red} {【第一次10/31更新到此，后续从此处继续】}$
 
 > 链接：[工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/VgfMJRjCOwmmwDnvotsHeQ)
 
-- 1.1.2 **【必看|文章】** 50个后台开发规范；
-> 备注：强烈建议看完，并且后面规范的去
+- 1.1.3 **【必看|路线】** 学习总结暂时更新一篇
 
-> 链接：[工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/VgfMJRjCOwmmwDnvotsHeQ)
+> 备注：要看下别人同期对比自己学习情况；
+
+> 链接：[CSDN博主草帽路飞](https://blog.csdn.net/weixin_43591980/article/details/118879857)
+> 链接：[CSDN博主草帽路飞](https://blog.csdn.net/weixin_43591980/category_10618938.html)
 
 
 
