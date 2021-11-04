@@ -5,12 +5,12 @@
 
 # 项目详情
 
-|  参与成员 | 项目选题 |  仓库地址  |  文档地址 |
-| - | - | - | - | 
-|@曹倜源 @吴香虹 @魏天宇 |【三峡大学知识星球】| ---- | ---- | 
-|@芦艺森 @李子涵 @王倩芳 |【三峡大学组队系统】| https://github.com/lysijj/Team | ---- | 
-|@张沛恒 @吴奔  |【三峡大学实验室报告厅预约系统】| https://github.com/wuwuwu223/ctgu_bgtyyxt_frontend | ---- | 
-|@王祥文 @喻鑫锐 @李严 |【三峡大学帮扶系统】| https://github.com/yxr2333/springboot-repo1 | ---- | 
+|  参与成员 | 项目选题 |  地址 |
+| - | - | -  | 
+|@曹倜源 @吴香虹 @魏天宇 |【三峡大学知识星球】|[【Github】](https://github.com/WTY2002/CTGU-TeamWork)-[【文档】](https://wty2002.github.io/CTGU-TeamWork/)  -[【x预览地址】](https://github.com/WTY2002/CTGU-TeamWork) | 
+|@芦艺森 @李子涵 @王倩芳 |【三峡大学组队系统】|[【Github】]( https://github.com/lysijj/Team )-[【文档】](https://lysijj.github.io/Team/)  -[【x预览地址】](https://github.com/WTY2002/CTGU-TeamWork) | 
+|@张沛恒 @吴奔  |【三峡大学预约系统】| [【Github】](https://github.com/wuwuwu223/ctgu_bgtyyxt_frontend)-[【文档】](https://wuwuwu223.github.io/ctgu_bgtyyxt_frontend/)  -[【预览地址】](http://43.248.186.109:9999)  | 
+|@王祥文 @喻鑫锐 @李严 |【三峡大学帮扶系统】| [【Github】](https://github.com/yxr2333/springboot-repo1)-[【x文档】](https://github.com/WTY2002/CTGU-TeamWork)  -[【x预览地址】](https://github.com/WTY2002/CTGU-TeamWork)  | 
 
 # 1. 第一阶段作业（11月）
 
